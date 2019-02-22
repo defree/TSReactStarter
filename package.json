@@ -1,0 +1,37 @@
+{
+  "name": "ts-starter",
+  "version": "1.0.0",
+  "description": "Typescript React starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/defree/TSReactStarter.git"
+  },
+  "keywords": [
+    "typescript",
+    "react",
+    "starter"
+  ],
+  "author": "Esa Aaltonen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/defree/TSReactStarter/issues"
+  },
+  "homepage": "https://github.com/defree/TSReactStarter#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.4",
+    "@types/react-dom": "^16.8.2",
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.3.3333",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  },
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
